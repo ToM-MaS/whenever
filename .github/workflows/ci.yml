@@ -18,9 +18,9 @@ jobs:
           - os: macos-latest
             ruby-version: '2.5'
         include:
-          - os: macos-13
+          - os: macos-15-intel
             ruby-version: '2.4'
-          - os: macos-13
+          - os: macos-15-intel
             ruby-version: '2.5'
     steps:
       - uses: actions/checkout@v6
