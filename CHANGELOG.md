@@ -11,7 +11,7 @@
 
 * CI: Use macos-15-intel instead of macos-13 for Ruby 2.4 and 2.5 https://github.com/javan/whenever/pull/871
 
-### 1.1.1 / Dec 8, 2025
+### 1.1.1 / December 8, 2025
 
 * job_list `.respond_to?` updated to an instance method https://github.com/javan/whenever/pull/830
 
@@ -23,7 +23,7 @@
 
 * Require MFA for gem releases https://github.com/javan/whenever/pull/867
 
-### 1.1.0 / Nov 21, 2025
+### 1.1.0 / November 21, 2025
 
 * Splat whenever_roles when passing to roles https://github.com/javan/whenever/pull/777
 
@@ -161,7 +161,7 @@
 * Process params in job templates. [Austin Ziegler]
 
 
-### 0.8.4 / July 22, 2012
+### 0.8.4 / July 22, 2013
 
 * Don't require schedule file when clearing. [Javan Makhmali]
 
