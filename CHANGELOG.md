@@ -1,6 +1,16 @@
 ### unreleased
 
 
+### 1.1.2 / January 18, 2026
+
+* Add description as comment in crontab https://github.com/javan/whenever/pull/776
+
+* Override global option with group option https://github.com/javan/whenever/pull/822
+
+* CI: Add Ruby 4.0 to CI Matrix https://github.com/javan/whenever/pull/872
+
+* CI: Use macos-15-intel instead of macos-13 for Ruby 2.4 and 2.5 https://github.com/javan/whenever/pull/871
+
 ### 1.1.1 / Dec 8, 2025
 
 * job_list `.respond_to?` updated to an instance method https://github.com/javan/whenever/pull/830
